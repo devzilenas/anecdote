@@ -1,0 +1,32 @@
+body   {
+		/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+		/*font-family: "Copperplate/Copperplate Gothic Light", sans-serif;*/
+		font-family: "Lucida Console", Monaco, monospace;
+		font-size  : 12px}
+input  {font-family: sans-serif}
+img    {border: none;}
+h1, h2 {margin:0; padding:0}
+pre    {margin:0; padding:0}
+
+label   { width:120px; float:left}
+
+.meniu {
+	border-top: 1px dotted blue;
+	border-bottom: 1px dotted blue;
+	font-size: 200%;
+}
+
+.flag {
+	border: 1px solid gray;
+}
+
+.inl {
+	display:inline;
+}
+
+.small {
+	font-size: xx-small;
+}
+.large {
+	font-size: xx-large;
+}
